@@ -1,0 +1,28 @@
+{
+  "name": "jidinyi-bigini-js",
+  "version": "1.0.0",
+  "description": "mengibih kiti-kiti ying di inpit di minjidi tilisin sipirti ini",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noviirna/jidinyi-bigini-js.git"
+  },
+  "keywords": [
+    "jidinyi"
+  ],
+  "author": "https://github.com/noviirna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noviirna/jidinyi-bigini-js/issues"
+  },
+  "homepage": "https://github.com/noviirna/jidinyi-bigini-js#readme",
+  "bin": {
+    "bigini-cli": "./bin/index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
